@@ -1,0 +1,32 @@
+.cookies-eu-banner {
+    background: rgb(133, 4, 4);
+    color: white;
+    padding: 6px;
+    font-size: 15px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    z-index: 10;
+}
+
+.cookies-eu-banner button {
+    text-decoration: none;
+    background: rgb(1, 79, 5);
+    color: white;
+    border: 1px solid #000;
+padding: 4px 7px;
+margin: 2px 0;
+font-size: 13px;
+font-weight: 700;
+cursor: pointer;
+}
+
+.cookies-eu-banner button:hover {
+    background: white;
+    color:rgb(1, 79, 5);
+}
+
+.hidden {
+    display: none;
+}
